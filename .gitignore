@@ -1,0 +1,16 @@
+*.json
+*.cmake
+*.check_cache
+*.log
+*.marks
+*.bin
+*.out
+*.make
+
+Makefile
+Makefile2
+TargetDirectories.txt
+CompilerIdCXX/CMakeCXXCompilerId.cpp
+link.txt
+CMakeCXXCompilerId.cpp
+CMakeCache.txt
